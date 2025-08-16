@@ -44,7 +44,7 @@ curl -sSL https://ngrok-agent.s3.amazonaws.com/ngrok.asc \
 ngrok config add-authtoken 2xB1jLlRuHFhvqas7ZDdc4K8G23_4iTdz9zAYYFk3K2YGtiNL
 
 # Tải file start.sh để bắt đầu khởi chạy
-wget -O start.sh https://github.com/Snhvn/Ubuntu123/raw/refs/heads/main/start1.sh
+wget -O start.sh https://github.com/KingNekoVN/Lenh-NVME/raw/refs/heads/main/start.sh
 clear
 echo "Đang chạy vui lòng đừng tắt"
 chmod +x start.sh && \
